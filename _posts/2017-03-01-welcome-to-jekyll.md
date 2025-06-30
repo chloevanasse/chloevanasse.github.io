@@ -3,8 +3,20 @@ title: "Welcome to Jekyll"
 layout: About Me
 ---
 
-I'm a bold(Ph.D. candidate in Marketing) at HEC Montréal. 
-My interest lies in the empirical analysis of stakeholder behavior and decision-making. As a researcher, I develop advanced econometric and statistical models to better understand how stakeholders—such as consumers, shareholders and intermediaries—react to firm actions in contexts of high information asymmetry
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.Add commentMore actions
 
-I have presented my research at leading marketing conferences and worked closely with multiple industry partners. These collaborations have led to the development of advanced econometric and statistical models to analyze key marketing levers—such as pricing and promotions—and generate actionable insights for optimal market positioning and strategic decision-making.AI-powered personalization systems.
+Jekyll also offers powerful support for code snippets:
 
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
