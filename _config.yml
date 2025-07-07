@@ -264,8 +264,8 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: "default"
-      author: true
+      layout:pub
+     # author: true
      # author_profile: true
       share: true
       comments: true
