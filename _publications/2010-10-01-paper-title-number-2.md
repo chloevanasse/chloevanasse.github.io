@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Can Consumers’ altruistic inferences solve the CSR initiative puzzle? A Meta-analytic investigation"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
