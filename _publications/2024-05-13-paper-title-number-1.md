@@ -2,7 +2,8 @@
 title: "Can Consumers’ altruistic inferences solve the CSR initiative puzzle? A Meta-analytic investigation"
 collection: publications
 category: manuscripts
-#permalink:  /publication/2024-05-13-paper-title-number-2
+authors: 'Carrillat, F.A., Plewa, C., Pupovac, L., <strong>Vanasse, C.</strong>, Willmott, T., Legoux, R., Napolova, E.'
+#permalink:  /publication/2024-05-13-paper-title-number-1
 date: 2024-05-13
 venue: 'Journal of Business Ethics'
 Link: 'https://link.springer.com/article/10.1007/s10551-024-05704-0'
