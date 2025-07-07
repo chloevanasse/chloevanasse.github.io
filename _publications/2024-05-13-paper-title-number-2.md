@@ -2,10 +2,10 @@
 title: "Can Consumers’ altruistic inferences solve the CSR initiative puzzle? A Meta-analytic investigation"
 collection: publications
 category: manuscripts
-permalink:  /publication/2024-05-13-paper-title-number-2
+#permalink:  /publication/2024-05-13-paper-title-number-2
 date: 2024-05-13
 venue: 'Journal of Business Ethics'
-paperurl: 'https://link.springer.com/article/10.1007/s10551-024-05704-0'
+Link: 'https://link.springer.com/article/10.1007/s10551-024-05704-0'
 citation: 'Carrillat, F.A., Plewa, C., Pupovac, L., <strong>Vanasse, C.</strong>, Willmott, T., Legoux, R., Napolova, E. (2024). "Can Consumers’ altruistic inferences solve the CSR initiative puzzle? A Meta-analytic investigation." <i>Journal of Business Ethics</i>.'
 ---
 Research into consumer responses to corporate social responsibility (CSR) initiatives has expanded in the past four decades, yet the evidence thus far provided does not paint a cohesive picture. Results suggest both positive and negative consumer reactions to CSR, and unless such mixed findings can be reconciled, the outcome might be an amalgamation of disparate empirical results rather than a coherent body of knowledge.
