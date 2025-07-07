@@ -7,7 +7,6 @@ date: 2024-05-13
 permalink: 2024-05-13-paper-title-number-1
 venue: 'Journal of Business Ethics'
 link: 'https://link.springer.com/article/10.1007/s10551-024-05704-0'
-#paperurl: "https://link.springer.com/article/10.1007/s10551-024-05704-0"
 
 excerpt: ""  # optional, no longer needed with <!--more-->
 ---
