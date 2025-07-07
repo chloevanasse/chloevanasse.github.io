@@ -2,13 +2,13 @@
 title: "Can Consumers’ altruistic inferences solve the CSR initiative puzzle? A Meta-analytic investigation"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-05-13-Publication1
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
-author: "Carrillat, F.A., Plewa, C., Pupovac, L., <strong>Vanasse, C.</strong>, Willmott, T., Legoux, R., Napolova, E."
-date: 2024-05-13
-venue: "Journal of Business Ethics"
-slidesurl: ""  # leave blank or provide full URL
-paperurl: "https://link.springer.com/article/10.1007/s10551-024-05704-0"
-bibtexurl: ""  # leave blank or provide URL to .bib file
-citation: "Carrillat, F.A., Plewa, C., Pupovac, L., <strong>Vanasse, C.</strong>, Willmott, T., Legoux, R., Napolova, E. (2024). \"Can Consumers’ altruistic inferences solve the CSR initiative puzzle? A Meta-analytic investigation.\" <i>Journal of Business Ethics</i>."
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2010-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
