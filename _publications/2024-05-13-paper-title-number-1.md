@@ -4,9 +4,10 @@ collection: publications
 category: manuscripts
 authors: 'Carrillat, F.A., Plewa, C., Pupovac, L., <strong>Vanasse, C.</strong>, Willmott, T., Legoux, R., Napolova, E.'
 date: 2024-05-13
+permalink: 2024-05-13-paper-title-number-1
 venue: 'Journal of Business Ethics'
-#link: 'https://link.springer.com/article/10.1007/s10551-024-05704-0'
-paperurl: "https://link.springer.com/article/10.1007/s10551-024-05704-0"
+link: 'https://link.springer.com/article/10.1007/s10551-024-05704-0'
+#paperurl: "https://link.springer.com/article/10.1007/s10551-024-05704-0"
 citation: 'Carrillat, F.A., Plewa, C., Pupovac, L., <strong>Vanasse, C.</strong>, Willmott, T., Legoux, R., Napolova, E. (2024). "Can Consumers’ altruistic inferences solve the CSR initiative puzzle? A Meta-analytic investigation." <i>Journal of Business Ethics</i>.'
 excerpt: ""  # optional, no longer needed with <!--more-->
 ---
