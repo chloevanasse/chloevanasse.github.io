@@ -17,6 +17,6 @@ main:
   - title: "Media Coverage"
     url: /mediacoverage/    
     
-   - title: "CV"
-     url: /cv-json/
+  - title: "CV"
+    url: /cv-json/
 
