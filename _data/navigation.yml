@@ -18,5 +18,6 @@ main:
     url: /mediacoverage/    
     
   - title: "CV"
-    url: /cv-json/
+    url: /CV.pdf
+ 
 
