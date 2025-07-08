@@ -298,7 +298,9 @@ defaults:
       layout: mediacoverage
       author_profile: true
       share: true 
-
+main:
+  - title: "CV"
+  - url: /files/CV.pdf
 
 # Sass/SCSS
 sass:
