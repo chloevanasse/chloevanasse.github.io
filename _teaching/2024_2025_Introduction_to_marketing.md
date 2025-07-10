@@ -20,7 +20,7 @@ Marketing is a dynamic and essential discipline that plays a central role in the
 This course is an introduction that aims to explain the role and function of marketing within an organization's activities and to present the main marketing tools used in business. This course will enable students to:
 - Be aware of the complex and evolving nature of contemporary marketing, shaped by consumer and market responses  
 - Understand the foundational principles of marketing and its strategic importance within an organization  
-- Analyze the product–market relationship relationship
+- Analyze the product–market relationship 
 - Identify core concepts of strategic marketing and how to apply them in real business contexts  
 - Distinguish the marketing mix actions
 
