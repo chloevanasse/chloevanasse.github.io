@@ -25,6 +25,3 @@ This course is an introduction that aims to explain the role and function of mar
 - Distinguish the marketing mix actions
 
 By the end of the course, students will be equipped to think critically about marketing challenges and apply strategic marketing tools in practical, decision-making scenarios.
-
-Heading 3
-======
