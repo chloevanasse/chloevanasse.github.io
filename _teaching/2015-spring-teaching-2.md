@@ -4,13 +4,16 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "HEC Montréal, Department of Marketing"
-date: 2024-01-01
+date: #2024-01-01
 location: "Montréal, Canada"
 ---
+**Teaching Terms:**  
+- Fall 2024  
+- Winter 2025  
+- Fall 2025 *(Present)*
 
-**Course Summary**
+**Course Summary:**
 Marketing is a dynamic and essential discipline that plays a central role in the development and sustainability of modern businesses. In today’s rapidly evolving landscape, marketing increasingly shapes managerial thinking across industries.
-
 This course is an introduction that aims to explain the role and function of marketing within an organization's activities and to present the main marketing tools used in business. This course will enable students to:
 - Be aware of the complex and evolving nature of contemporary marketing, shaped by consumer and market responses  
 - Understand the foundational principles of marketing and its strategic importance within an organization  
