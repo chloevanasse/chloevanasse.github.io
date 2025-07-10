@@ -1,7 +1,7 @@
 ---
 title: "Marketing 101: Introduction to Marketing"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "HEC Montréal, Department of Marketing"
 date: 2024-01-01
