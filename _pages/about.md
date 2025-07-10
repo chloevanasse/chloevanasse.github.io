@@ -24,7 +24,7 @@ Professional Experience
 ------
 - Lecturer, HEC Montréal, 2024- Present
 - Research Consultant, BTLF & AQSL, 2022- Present 
-- Assurance Associate (external auditor) PricewaterhouseCoopers, 2017-2021
+- Assurance Associate (external auditor), PricewaterhouseCoopers, 2017-2021
 
 Methods 
 ------
