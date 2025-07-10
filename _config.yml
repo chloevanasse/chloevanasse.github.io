@@ -150,9 +150,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-analytics-4" #  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :"false" #"google-analytics-4" #  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          : "G-3RPBD8NLEC"
+    tracking_id          :  #"G-3RPBD8NLEC"
 
 
 # Reading Files
