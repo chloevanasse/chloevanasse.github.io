@@ -28,7 +28,7 @@ Professional Experience
 
 Methods 
 ------
--Statistical Modeling
+- Statistical Modeling
 - Econometrics
 - Meta-Analysis
 - Experimental methods
