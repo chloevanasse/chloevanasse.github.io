@@ -28,9 +28,9 @@ Professional Experience
 
 Methods 
 ------
+-Statistical Modeling
 - Econometrics
 - Meta-Analysis
-- Causal inference
 - Experimental methods
 - Computational methods (e.g., NLP, machine learning)
 
